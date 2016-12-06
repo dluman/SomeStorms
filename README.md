@@ -1,4 +1,4 @@
-# SomeStorms
+# Some Storms, a poem for bpNichol
 Python code for "Some Storms," a generative weather poem.
 
 ## From the title screen:
